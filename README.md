@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://getbootstrap.com/">
-    <img src="https://th.bing.com/th/id/OIG4.b5GvpDYgIBTEg.QmdqkM?pid=ImgGn" alt="Bootstrap logo" width="300" height="300">
+    <img src="bonzi.jpg" alt="BonziFriend Logo" width="300" height="300">
   </a>
 </p>
 
