@@ -12,9 +12,9 @@ Bonzi Friend is a project inspired by the nostalgic virtual assistant, BonziBudd
 * Conversational interface for interactive communication
 * Desktop navigation and guidance
 * Bonzi Friend aims to be your go-to assistant for navigating your computer and solving everyday problems. With its conversational interface and helpful features, it's like having a friend always ready to lend a hand.
-```
+
 Note: Bonzi Friend is an independent project and is not affiliated with or endorsed by the original BonziBuddy creators.
-```
+
 ## Contact Information:
 * E-mail: 
 * Instagram: 
