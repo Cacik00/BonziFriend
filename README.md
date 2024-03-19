@@ -6,13 +6,10 @@
   </a>
 </p>
 
-<h3 align="center">BonziFriend</h3>
+ <h3 align="center">BonziFriend</h3>
 
 <p align="center">
-  Sleek, intuitive, and powerful front-end framework for faster and easier web development.
-  <br>
   <a href="https://getbootstrap.com/docs/5.3/"><strong>Explore BonziFriend docs »</strong></a>
-  <br>
   <br>
   <a href="https://github.com/twbs/bootstrap/issues/new?assignees=-&labels=bug&template=bug_report.yml">Report bug</a>
   ·
@@ -44,6 +41,6 @@ Bonzi Friend is a project inspired by the nostalgic virtual assistant, BonziBudd
 Bonzi Friend is an independent project and is not affiliated with or endorsed by the original BonziBuddy creators.
 
 ## Contact Information:
-* E-mail: 
+* E-mail: bonzifriendoffical@gmail.com
 * Instagram: 
 * Reddit: 
