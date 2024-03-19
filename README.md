@@ -1,6 +1,8 @@
+
+
 <p align="center">
   <a href="https://getbootstrap.com/">
-    <img src="bonzi.jpg" alt="BonziFriend Logo" width="300" height="300">
+    <img src="./images/bonzi.png" alt="BonziFriend Logo" width="500" height="500">
   </a>
 </p>
 
@@ -9,7 +11,7 @@
 <p align="center">
   Sleek, intuitive, and powerful front-end framework for faster and easier web development.
   <br>
-  <a href="https://getbootstrap.com/docs/5.3/"><strong>Explore Bootstrap docs »</strong></a>
+  <a href="https://getbootstrap.com/docs/5.3/"><strong>Explore BonziFriend docs »</strong></a>
   <br>
   <br>
   <a href="https://github.com/twbs/bootstrap/issues/new?assignees=-&labels=bug&template=bug_report.yml">Report bug</a>
