@@ -1,23 +1,24 @@
+
+
 <p align="center">
   <a href="https://getbootstrap.com/">
-    <img src="https://th.bing.com/th/id/OIG4.b5GvpDYgIBTEg.QmdqkM?pid=ImgGn" alt="Bootstrap logo" width="300" height="300">
+    <img src="./images/bonzi.png" alt="BonziFriend Logo" width="500" height="500">
   </a>
 </p>
 
-<h3 align="center">BonziFriend</h3>
+<!-- <h3 align="center">BonziFriend</h3>
 
 <p align="center">
-  Sleek, intuitive, and powerful front-end framework for faster and easier web development.
-  <br>
-  <a href="https://getbootstrap.com/docs/5.3/"><strong>Explore Bootstrap docs »</strong></a>
-  <br>
+  <a href="https://getbootstrap.com/docs/5.3/"><strong>Explore BonziFriend docs »</strong></a>
   <br>
   <a href="https://github.com/twbs/bootstrap/issues/new?assignees=-&labels=bug&template=bug_report.yml">Report bug</a>
   ·
   <a href="https://github.com/twbs/bootstrap/issues/new?assignees=&labels=feature&template=feature_request.yml">Request feature</a>
   ·
   <a href="https://blog.getbootstrap.com/">Blog</a>
-</p>
+</p> -->
+
+
 
 
 
@@ -42,6 +43,6 @@ Bonzi Friend is a project inspired by the nostalgic virtual assistant, BonziBudd
 Bonzi Friend is an independent project and is not affiliated with or endorsed by the original BonziBuddy creators.
 
 ## Contact Information:
-* E-mail: 
+* E-mail: bonzifriendoffical@gmail.com
 * Instagram: 
 * Reddit: 
