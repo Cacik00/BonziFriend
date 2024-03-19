@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <a href="https://getbootstrap.com/">
+  <a href="https://www.instagram.com/bonzi_friend/">
     <img src="./images/bonzi.png" alt="BonziFriend Logo" width="500" height="500">
   </a>
 </p>
