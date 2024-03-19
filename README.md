@@ -45,4 +45,8 @@ Bonzi Friend is an independent project and is not affiliated with or endorsed by
 ## Contact Information:
 * E-mail: bonzifriendoffical@gmail.com
 * Instagram: https://www.instagram.com/bonzi_friend/
-* Reddit: 
+* Reddit:
+
+<a href="https://bonzi.link/">
+  <img src="https://live.browserstack.com/images/opensource/browserstack-logo.svg" alt="BonziBuddy" width="192" height="42">
+</a>
