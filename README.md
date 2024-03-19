@@ -6,7 +6,7 @@
   </a>
 </p>
 
- <h3 align="center">BonziFriend</h3>
+<!-- <h3 align="center">BonziFriend</h3>
 
 <p align="center">
   <a href="https://getbootstrap.com/docs/5.3/"><strong>Explore BonziFriend docs »</strong></a>
@@ -16,7 +16,9 @@
   <a href="https://github.com/twbs/bootstrap/issues/new?assignees=&labels=feature&template=feature_request.yml">Request feature</a>
   ·
   <a href="https://blog.getbootstrap.com/">Blog</a>
-</p>
+</p> -->
+
+
 
 
 
