@@ -1,8 +1,11 @@
-Welcome to Bonzi Friend!
+# Welcome to Bonzi Friend!
+Bonzi Friend is a project inspired by the nostalgic virtual assistant, BonziBuddy.
+ 
+## Getting Started
+ 
+ Our goal is to recreate the fun and interactive experience of BonziBuddy while adding modern functionalities. Bonzi Friend is designed to be your helpful companion on your computer, capable of solving various issues, finding files, and assisting with tasks.
 
-Bonzi Friend is a project inspired by the nostalgic virtual assistant, BonziBuddy. Our goal is to recreate the fun and interactive experience of BonziBuddy while adding modern functionalities. Bonzi Friend is designed to be your helpful companion on your computer, capable of solving various issues, finding files, and assisting with tasks.
-
-Key Features:
+## Key Features:
 
 * Assistance with computer-related tasks
 * File search and organization
@@ -12,7 +15,7 @@ Key Features:
 
 Note: Bonzi Friend is an independent project and is not affiliated with or endorsed by the original BonziBuddy creators.
 
-Contact Information:
-E-mail: 
-Instagram: 
-Reddit: 
+## Contact Information:
+* E-mail: 
+* Instagram: 
+* Reddit: 
