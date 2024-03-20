@@ -47,6 +47,8 @@ Bonzi Friend is an independent project and is not affiliated with or endorsed by
 * Instagram: https://www.instagram.com/bonzi_friend/
 * Reddit:
 
+Install with [Bonzi Buddy](bonzi.link):
+
 
 
 
