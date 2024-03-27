@@ -1,3 +1,7 @@
 openai==0.23.1
 pillow==10.2.0
 python-appimage==1.2.5
+qrcode==7.4.2
+apikey==0.2.4
+tk-toolkit==1.0.3
+pygame==2.5.2
